@@ -13,12 +13,20 @@ header {
     border-bottom: 3px solid goldenrod;
     margin-bottom: 10px;
 }
+h2{
+    margin-bottom: 20px;
+  }
 
 footer {
     background-color: skyblue;
     border-top: 3px solid goldenrod;
     text-align: center;
     padding: 10px;
+}
+
+#copy {
+    color: solid bold black;
+    
 }
 
 article {
@@ -65,8 +73,8 @@ form {
 }
 
 .form-label{
-    margin-top: 50px;
-    margin-bottom: 45px;
+    margin-top: 10px;
+    margin-bottom: 15px;
 }
 
 input, textarea {
